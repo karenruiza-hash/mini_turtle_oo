@@ -1,1 +1,3 @@
-# Paquete mini_turtle_oo
+from .turtle_class import Tortuga
+
+__all__ = ["Tortuga"]
